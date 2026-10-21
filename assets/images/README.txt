@@ -1,0 +1,1 @@
+Add your own logo as logo.png. No logo artwork is included; the site uses a typographic placeholder.
